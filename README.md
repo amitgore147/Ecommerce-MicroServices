@@ -12,7 +12,6 @@
 The technologies used in this project are:
 
 - Spring Boot
-- Angular
 - Mongo DB
 - MySQL
 - Kafka
